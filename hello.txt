@@ -13,4 +13,4 @@ hello yao! hello git
 hello yao! hello git
 hello yao! hello git
 hello yao! hello git master test
-hello yao! hello git
+hello yao! hello git hot-fix test
